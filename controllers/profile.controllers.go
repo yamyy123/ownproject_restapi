@@ -2,7 +2,7 @@
 
 package controllers
 
-func CreateProfile(){
+func CreateProfile(){ 
 	//ProfileService.CreateProfile will be called from here
 }
 func EditProfile(){}
